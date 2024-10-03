@@ -1,7 +1,7 @@
 title: nulljosh
 email: trommatic@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  canadian engineer. writings on technology and physics. 
+  canadian engineer. writings on techn + physics. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://fuckingjoshua.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nxlljxsh
