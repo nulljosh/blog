@@ -9,7 +9,7 @@ No alarm today. No inbox. No check-ins. Just woke up when I felt like it, made c
 
 Yeah—retired at 25.
 
-Not much to explain. I saw a few things early. Took the right bets. Kept quiet when it counted. The kind of stuff you don’t talk about on LinkedIn.
+Not much to explain. I saw a few things early. Took the right bets. Kept quiet when it counted. The kind of stuff you don’t talk about.
 
 Now I’ve got time. Real time. And freedom feels even better when you earned it quietly.
 
