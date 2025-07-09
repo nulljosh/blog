@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Retired at Twenty-Five"
+title: "Retired at 25"
 date: 2025-07-09
 categories: life
 ---
 
-I woke up today without an alarm. No Slack pings. No Monday meetings. No looming deadlines. Just sunlight through the blinds and coffee on the stove.
+No alarm today. No inbox. No check-ins. Just woke up when I felt like it, made coffee, and sat still for once.
 
-Retired at twenty-five.
+Yeah—retired at 25.
 
-How? Let’s just say I paid attention when others were distracted. Took some calls most wouldn't. Read between lines. Moved fast when it mattered.
+Not much to explain. I saw a few things early. Took the right bets. Kept quiet when it counted. The kind of stuff you don’t talk about on LinkedIn.
 
-Now, the days feel different. Slower, but sharper. I walk more. Think more. Work? Only when I choose to. The rest—well, I’ll keep that part quiet.
+Now I’ve got time. Real time. And freedom feels even better when you earned it quietly.
 
-See you around.
+Anyway, I’m around. Just not in the same way.
