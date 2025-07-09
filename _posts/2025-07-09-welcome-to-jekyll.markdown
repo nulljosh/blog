@@ -1,29 +1,43 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-07-09 08:32:08 -0700
-categories: jekyll update
+title: "Stock Market Snapshot: 08:35 AM PDT, July 9, 2025"
+date: 2025-07-09 08:35:00 -0800
+categories: [stocks, market-update]
+tags: [HOOD, PLTR, NVDA, TSLA, IBM, DIS, WMT, GRNY, NRG]
+author: Joshua Trommel
+excerpt: "HOOD and PLTR are popping off, NVDA is surging, and the rest of the market’s a mix of green and red. Here's the vibe check from 08:35 AM PDT, July 9, 2025."
+image: /assets/images/market-snapshot.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# Stock Market Snapshot: 08:35 AM PDT, July 9, 2025
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Yo, stock fam! It’s 08:35 AM PDT, July 9, 2025, and the market’s serving up some wild vibes.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**HOOD** is flexing at **$93.15**, up **2.05%**—bullish AF, straight fire!  
+**NVDA** is riding high at **$163.11**, **+1.94%**—tech’s popping off like a rocket.  
+**GRNY** and **NRG** are creeping up **0.27%** and **0.33%**—steady Eddies, nothing to scream about.  
 
-Jekyll also offers powerful support for code snippets:
+Meanwhile:  
+- **WMT** (-0.03%) and **PLTR** (-0.07%) are like, “Nah, we’re chilling.”  
+- **DIS** (-0.53%) is taking a Disney-dumping hit.  
+- **IBM** at **$289.01**, down **0.49%**—ouch, time to rethink that spreadsheet!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This mix of green and red got me eyeing **HOOD’s hustle**—feels like it’s primed for a $PLTR-level move (NFA, just vibes from the charts).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+---
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## PLTR & HOOD: Momentum Moves?
+
+Digging deeper, **PLTR**’s showing some serious strength—bouncing off key support and reclaiming trendlines. Bulls are hyped, calling for targets at **$145** or even **$152** if it holds. X (formerly Twitter) is buzzing with *“confirmed breakout”* energy, though some folks are whispering a pullback might hit next week or end of July. The market looks ready for a breather after those parabolic pumps.
+
+**HOOD’s** got that same *eerie similarity* vibe, with air to all-time highs and a wick to **$85** looking juicy. Traders are all about those buyable pullbacks, and I’m here for it—discounts like this scream opportunity, especially with **$TSLA** and **$PLTR** also dipping hard from their peaks.
+
+---
+
+## Final Take
+
+So, what’s the play, crew?  
+**HOOD** and **PLTR** are stealing the spotlight, and I’m tempted to load up while the fear’s peaking—6 months from now, we might be kicking ourselves if we sleep on this.
+
+**NVDA**’s tech surge is a vibe, but those losers like **IBM** and **DIS** are giving me pause.  
+Drop your hot takes below—where you jumping in, or riding the dip?
