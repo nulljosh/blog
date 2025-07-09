@@ -37,5 +37,4 @@ Digging deeper, **PLTR**’s showing some serious strength—bouncing off key su
 So, what’s the play, crew?  
 **HOOD** and **PLTR** are stealing the spotlight, and I’m tempted to load up while the fear’s peaking—6 months from now, we might be kicking ourselves if we sleep on this.
 
-**NVDA**’s tech surge is a vibe, but those losers like **IBM** and **DIS** are giving me pause.  
-Drop your hot takes below—where you jumping in, or riding the dip?
+**NVDA**’s tech surge is a vibe, but those losers like **IBM** and **DIS** are giving me pause.
