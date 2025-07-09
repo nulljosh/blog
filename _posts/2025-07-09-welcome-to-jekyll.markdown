@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stock Market Snapshot: 08:35 AM PDT, July 9, 2025"
-date: 2025-07-09 08:35:00 -0800
+date: 2025-07-09 08:35:00
 categories: [stocks, market-update]
 tags: [HOOD, PLTR, NVDA, TSLA, IBM, DIS, WMT, GRNY, NRG]
 author: Joshua Trommel
@@ -9,9 +9,7 @@ excerpt: "HOOD and PLTR are popping off, NVDA is surging, and the rest of the ma
 image: /assets/images/market-snapshot.jpg
 ---
 
-# Stock Market Snapshot: 08:35 AM PDT, July 9, 2025
-
-Yo, stock fam! It’s 08:35 AM PDT, July 9, 2025, and the market’s serving up some wild vibes.
+Yo! It’s 08:35 AM PDT, July 9, 2025, and the market’s serving up some wild vibes.
 
 **HOOD** is flexing at **$93.15**, up **2.05%**—bullish AF, straight fire!  
 **NVDA** is riding high at **$163.11**, **+1.94%**—tech’s popping off like a rocket.  
