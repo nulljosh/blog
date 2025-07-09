@@ -26,7 +26,7 @@ This mix of green and red got me eyeing **HOOD’s hustle**—feels like it’s 
 
 ## PLTR & HOOD: Momentum Moves?
 
-Digging deeper, **PLTR**’s showing some serious strength—bouncing off key support and reclaiming trendlines. Bulls are hyped, calling for targets at **$145** or even **$152** if it holds. X (formerly Twitter) is buzzing with *“confirmed breakout”* energy, though some folks are whispering a pullback might hit next week or end of July. The market looks ready for a breather after those parabolic pumps.
+Digging deeper, **PLTR**’s showing some serious strength—bouncing off key support and reclaiming trendlines. Bulls are hyped, calling for targets at **$145** or even **$152** if it holds. Twitter is buzzing with *“confirmed breakout”* energy, though some folks are whispering a pullback might hit next week or end of July. The market looks ready for a breather after those parabolic pumps.
 
 **HOOD’s** got that same *eerie similarity* vibe, with air to all-time highs and a wick to **$85** looking juicy. Traders are all about those buyable pullbacks, and I’m here for it—discounts like this scream opportunity, especially with **$TSLA** and **$PLTR** also dipping hard from their peaks.
 
