@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retired at 25"
-date: 2025-07-09
+date: 2025-07-09 08:51:00
 categories: life
 ---
 
